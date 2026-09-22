@@ -28,4 +28,5 @@ We welcome contributions from academic and inductry collaborators! To suggest a 
 ## Contact and Governance
 
 **Initiative Lead:** Dr. Reema Singh
+
 **Organization:** Global Alliance for Antimicrobial Discovery Special Interest Group (GAAD SIG)
