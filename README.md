@@ -10,9 +10,16 @@ This directory bridges high-throughout computational discovery with clinical pha
 
 Standarized computational workflows for genome assembly, functional annotation, variant calling, and mobile genetic element (MGE) mapping.
 
+| Pipeline/Tool | Category | Description | Source/Reference | License |
+| :--- | :--- | :---| :--- | :--- |
+
+
 ### Pillar 2: Multi-Omics Databases and Repositories
 
 Curated public datasets (genomics, transcriptomics, proteomics, and metabolomics) supporting accerelerated target identification.
+
+| Resource/Database | Data Type | Primary Application | Access Link |
+| :--- | :--- | :---| :--- | 
 
 ### Pillar 3: AMR Discovery Protocols and Translational Frameworks
 
