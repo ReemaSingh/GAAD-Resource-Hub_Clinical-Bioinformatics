@@ -25,6 +25,9 @@ Curated public datasets (genomics, transcriptomics, proteomics, and metabolomics
 
 Guidelined for predictive leads, host-pathogen interaction modeling, and computational PK/PD integration.
 
+| Protocol/Framework | Application | Target Audience | Reference / Resource |
+| :--- | :--- | :---| :--- | 
+
 ## How to Contribute
 
 We welcome contributions from academic and inductry collaborators! To suggest a tool, database, or protocol:
