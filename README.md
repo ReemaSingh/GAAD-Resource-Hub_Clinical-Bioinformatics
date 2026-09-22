@@ -17,3 +17,15 @@ Curated public datasets (genomics, transcriptomics, proteomics, and metabolomics
 ### Pillar 3: AMR Discovery Protocols and Translational Frameworks
 
 Guidelined for predictive leads, host-pathogen interaction modeling, and computational PK/PD integration.
+
+## How to Contribute
+
+We welcome contributions from academic and inductry collaborators! To suggest a tool, database, or protocol:
+
+1. Open a new request under the **[Issues](../../issues)** tab.
+2. Provide the resource name, category, brief description, and publication/source link.
+
+## Contact and Governance
+
+**Initiative Lead:** Dr. Reema Singh
+**Organization:** Global Alliance for Antimicrobial Discovery Special Interest Group (GAAD SIG)
