@@ -13,8 +13,20 @@ Standarized computational workflows for genome assembly, functional annotation, 
 | Pipeline/Tool | Category | Description | Source/Reference | License |
 | :--- | :--- | :---| :--- | :--- |
 | wf-bacterial-genomes | | |https://epi2me.nanoporetech.com/epi2me-docs/workflows/wf-bacterial-genomes/| |
-|nf-core| | |https://nf-co.re/bacass/2.0.0/||
+|nf-core/funcscan| | |https://nf-co.re/bacass/2.0.0/||
+|nf-core/bacass| | | | |
 |rMAP 2.0| | |https://github.com/gmboowa/rMAP-2.0||
+|AMRFinderPlus:|||https://www.ncbi.nlm.nih.gov/pathogens/antimicrobial-resistance/AMRFinder/||
+|RGI (Resistance Gene Identifier)|||https://github.com/arpcard/rgi||
+|ResFinder|||https://www.genomicepidemiology.org/||
+|Bactopia|||https://github.com/bactopia/bactopia||
+|Nullarbor|||https://github.com/tseemann/nullarbor||
+|Gen2Epi|||||
+|Gen2EpiGUI|||||
+|CdMEC-A||||||
+|ASA3P (A Automated Scaffold Annotation and Analysis Pipeline)||||||
+|dragonflye / shovill||||||
+|staphopia-sccmec / pathogen-profiler||||||
 
 ### Pillar 2: Multi-Omics Databases and Repositories
 
