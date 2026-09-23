@@ -12,7 +12,9 @@ Standarized computational workflows for genome assembly, functional annotation, 
 
 | Pipeline/Tool | Category | Description | Source/Reference | License |
 | :--- | :--- | :---| :--- | :--- |
-
+| wf-bacterial-genomes | | |https://epi2me.nanoporetech.com/epi2me-docs/workflows/wf-bacterial-genomes/| |
+|nf-core| | |https://nf-co.re/bacass/2.0.0/||
+|rMAP 2.0| | |https://github.com/gmboowa/rMAP-2.0||
 
 ### Pillar 2: Multi-Omics Databases and Repositories
 
