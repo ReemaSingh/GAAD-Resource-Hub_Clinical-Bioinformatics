@@ -33,6 +33,12 @@ Curated public datasets (genomics, transcriptomics, proteomics, and metabolomics
 
 | Resource/Database | Data Type | Primary Application | Access Link |
 | :--- | :--- | :---| :--- | 
+|**The Antimicrobial Resistance Portal (EMBL-EBI)**|Genotype-to-Phenotype Coordination||https://www.ebi.ac.uk/amr/|Open Source|
+|**ABRomics Platform**|||https://www.abromics.fr/home/abromics-platform/|Open Source|
+|**CARD: Comprehensive Antibiotic Resistance Database**|||https://card.mcmaster.ca/|Open Source|
+|**Omics Discovery Index (OmicsDI)**|||https://www.omicsdi.org/|Open Source|
+|**BV-BRC (Bacterial and Viral Bioinformatics Resource Center)**|||https://www.bv-brc.org/|Open Source|
+
 
 ### Pillar 3: AMR Discovery Protocols and Translational Frameworks
 
