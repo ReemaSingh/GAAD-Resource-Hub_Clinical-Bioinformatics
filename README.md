@@ -38,6 +38,10 @@ Curated public datasets (genomics, transcriptomics, proteomics, and metabolomics
 |**CARD: Comprehensive Antibiotic Resistance Database**|||https://card.mcmaster.ca/|Open Source|
 |**Omics Discovery Index (OmicsDI)**|||https://www.omicsdi.org/|Open Source|
 |**BV-BRC (Bacterial and Viral Bioinformatics Resource Center)**|||https://www.bv-brc.org/|Open Source|
+|**AMR Resources**|||https://www.ncbi.nlm.nih.gov/pathogens/antimicrobial-resistance/resources/|Open Source|
+|**MetaboLights**|||https://www.ebi.ac.uk/metabolights|Open Source|
+|**The PRoteomics IDEntifications database**|||https://www.ebi.ac.uk/pride/|Open Source|
+|**BACTERIAL AND VIRAL BIOINFORMATICS RESOURCE CENTER**|||https://www.bv-brc.org/|Open Source|
 
 
 ### Pillar 3: AMR Discovery Protocols and Translational Frameworks
