@@ -27,21 +27,21 @@ Standarized computational workflows for genome assembly, functional annotation, 
 | **dragonflye / shovill** | Genome Assembly | Assemblers optimized for Nanopore (dragonflye) and Illumina (shovill) reads | [GitHub Repo](https://github.com/tseemann/shovill) | GPL-3.0 |
 | **staphopia-sccmec** | Typing & Profiling | MGE typing and pathogen profiling frameworks | [GitHub Repo](https://github.com/staphopia/staphopia-sccmec) | MIT |
 
-### Pillar 2: Multi-Omics Databases and Repositories
 
-Curated public datasets (genomics, transcriptomics, proteomics, and metabolomics) supporting accerelerated target identification.
+### Pillar 2: Multi-Omics Databases & Repositories
 
-| Resource/Database | Data Type | Primary Application | Access Link |
-| :--- | :--- | :---| :--- | 
-|**The Antimicrobial Resistance Portal (EMBL-EBI)**|Genotype-to-Phenotype Coordination||https://www.ebi.ac.uk/amr/|Open Source|
-|**ABRomics Platform**|||https://www.abromics.fr/home/abromics-platform/|Open Source|
-|**CARD: Comprehensive Antibiotic Resistance Database**|||https://card.mcmaster.ca/|Open Source|
-|**Omics Discovery Index (OmicsDI)**|||https://www.omicsdi.org/|Open Source|
-|**BV-BRC (Bacterial and Viral Bioinformatics Resource Center)**|||https://www.bv-brc.org/|Open Source|
-|**AMR Resources**|||https://www.ncbi.nlm.nih.gov/pathogens/antimicrobial-resistance/resources/|Open Source|
-|**MetaboLights**|||https://www.ebi.ac.uk/metabolights|Open Source|
-|**The PRoteomics IDEntifications database**|||https://www.ebi.ac.uk/pride/|Open Source|
-|**BACTERIAL AND VIRAL BIOINFORMATICS RESOURCE CENTER**|||https://www.bv-brc.org/|Open Source|
+Curated public datasets (genomics, transcriptomics, proteomics, and metabolomics) supporting accelerated target identification.
+
+| Resource / Database | Data Type | Primary Application | Access Link |
+| :--- | :--- | :--- | :--- |
+| **Antimicrobial Resistance Portal (EMBL-EBI)** | Multi-Omics / AMR | Genotype-to-phenotype mapping and resistance data integration | [Access Portal](https://www.ebi.ac.uk/amr/) |
+| **ABRomics Platform** | Multi-Omics / AMR | French national platform for AMR multi-omics data integration | [Access Portal](https://www.abromics.fr/home/abromics-platform/) |
+| **CARD (Comprehensive Antibiotic Resistance Database)** | Resistance Genes | Rigorously curated database of resistance determinants and ARO ontology | [Data Hub](https://card.mcmaster.ca/) |
+| **Omics Discovery Index (OmicsDI)** | Multi-Omics | Multi-omics dataset discovery across genomics, transcriptomics, proteomics, and metabolomics | [Search Portal](https://www.omicsdi.org/) |
+| **BV-BRC (Bacterial and Viral Bioinformatics Resource Center)** | Genomics & Multi-Omics | Integrated bacterial and viral data analysis, pathways, and target discovery | [Resource Center](https://www.bv-brc.org/) |
+| **NCBI AMR Resources** | Genomics / Isolate Data | Reference gene catalog, point mutations, and pathogen isolate surveillance | [NCBI Portal](https://www.ncbi.nlm.nih.gov/pathogens/antimicrobial-resistance/resources/) |
+| **MetaboLights** | Metabolomics | Database for metabolomics experiments, raw data, and associated metadata | [EMBL-EBI Portal](https://www.ebi.ac.uk/metabolights/) |
+| **PRIDE (PRoteomics IDEntifications Database)** | Proteomics | Standard public repository for mass spectrometry-based proteomics datasets | [EMBL-EBI Portal](https://www.ebi.ac.uk/pride/) |
 
 
 ### Pillar 3: AMR Discovery Protocols and Translational Frameworks
