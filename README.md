@@ -50,6 +50,18 @@ Guidelined for predictive leads, host-pathogen interaction modeling, and computa
 
 | Protocol/Framework | Application | Target Audience | Reference / Resource |
 | :--- | :--- | :---| :--- | 
+|antiSMASH (Antibiotics & Secondary Metabolite Analysis SHell)|Identifies biosynthetic gene clusters (BGCs) in genome sequences to discover novel secondary metabolites.|Natural product chemists, genome miners, and drug discovery teams.|https://antismash.secondarymetabolites.org/#!/start|
+|DeepAMR|Employs deep learning architectures to predict minimum inhibitory concentrations (MIC) directly from sequence data.|Computational biologists and advanced pharmaceutical AI developers.|Peer-reviewed ML literature / GitHub repositories|
+|CARD & RGI (Comprehensive Antibiotic Resistance Database)|Predicts resistomes from genomic data using a Detection Engine based on high-quality reference sequences.|Bioinformaticians, microbiologists, and clinical genomic researchers.|https://card.mcmaster.ca/|
+|AMRFinderPlus|Locates acquired resistance genes, structural point mutations, virulence factors, and biocide biotypes.|Public health researchers and bacterial genomic epidemiologists|https://github.com/ncbi/amr|
+|ResFinder & PointFinder|Identifies acquired AMR genes and specific chromosomal mutations from whole-genome sequencing (WGS) data.|Clinical microbiologists and epidemiological surveillance networks.|https://genepi.food.dtu.dk/resfinder|
+|EUCAST & CLSI Breakpoint Frameworks|Sets standardized minimum inhibitory concentration (MIC) thresholds to classify a pathogen as susceptible or resistant.|Diagnostic laboratories, assay developers, and clinical trial designers.|https://www.eucast.org/|
+|WHO Target Product Profiles (TPPs)|Outlines specific product criteria (spectrum, safety profile, dosing, price) required for priority pathogen therapeutics.|Biotech startups, academic spin-offs, and pharmaceutical R&D leads.|https://www.who.int/|
+|NPL Antimicrobial Metrology Framework|Measures and validates physical mechanisms of action at single-cell levels to reduce preclinical replication failures.|Preclinical drug developers and biometrology scientists.|https://www.npl.co.uk/|
+|CARB-X Funding & Mentorship Model|Provides non-dilutive financial push-incentives alongside technical guidance to accelerate early-stage AMR assets.|Early-stage biotechnology companies and academic researchers.|https://carb-x.org/|
+|WHO AWaRe Classification|Categorizes antibiotics into Access, Watch, and Reserve groups to guide translation stewardship and restrict marketing.|National health ministries, hospital formulary committees, and clinicians.||
+|SECURE Initiative|Ensures equitable access and sustainable stewardship lines for newly translated antibiotics in developing nations.|Public health policymakers, global access foundations, and GARDP.|https://gardp.org/
+|Quadripartite One Health Joint Plan of Action|Harmonizes human, animal, and environmental data streams into a single cross-border AMR surveillance framework.|Environmental agencies, agricultural bodies, and public health officials.||
 
 ## How to Contribute
 
