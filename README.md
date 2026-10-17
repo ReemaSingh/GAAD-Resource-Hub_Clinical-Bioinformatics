@@ -46,10 +46,6 @@ Curated public datasets (genomics, transcriptomics, proteomics, and metabolomics
 
 ### Pillar 3: AMR Discovery Protocols and Translational Frameworks
 
-Guidelined for predictive leads, host-pathogen interaction modeling, and computational PK/PD integration.
-
-### Pillar 3: AMR Discovery Protocols and Translational Frameworks
-
 Guidelines for predictive leads, host-pathogen interaction modeling, and computational PK/PD integration.
 
 | Protocol / Framework | Application | Target Audience | Reference / Resource |
